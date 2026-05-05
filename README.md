@@ -11,3 +11,4 @@
 - ARCHITECTURE.md — architecture détaillée
 - DEPLOY.md — déploiement Railway / Vercel
 - QUICKSTART.md — démarrage en 10 minutes 
+   
